@@ -4,6 +4,7 @@
 
 - 👀 I’m interested in the World of Analytics and everything related to Big Data and Machine Learning
 - ⚡ I like to explore, find insides and new business opportunities every day
-- 🌱 Now I'm studying at Yandex.Practicum and ITMO, looking for new waves of knowledge everywhere
+- 🎓 I've completed courses at Yandex.Practicum and ITMO
+- 🌱 Now I'm looking for new waves of knowledge everywhere
 - 💞️ I'm ready to cooperate in the field of Data Analytics and Business Intelligence
 - 📫 How to reach me **sidyakinap@gmail.com** and **https://t.me/asidiakin**
